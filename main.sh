@@ -1,1 +1,1 @@
-python aman.py "$@"
+python main.py "$@"
